@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    flex-direction: table-row;
+    justify-content: center;
+}
+
+.header-link {
+    padding-top: 4vh;
+}
+
+.works-link{
+    padding-right: 10px;
+}
+
+.about-link{
+    padding-left: 10px;
+}
